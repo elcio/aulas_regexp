@@ -1,0 +1,15 @@
+from emailvalidator import validate
+
+assert validate('elcio@visie.com.br')
+assert validate('elcio@elcio.com.br')
+assert validate('_@ab.ru')
+assert validate('a.b+c_d-e1@12.alph.co.uk')
+assert validate('xx@teste.gov.br')
+assert not validate('@')
+assert not validate('teste@nome')
+assert not validate('teste@nome.__')
+assert not validate('teste@nome..com')
+assert not validate('teste@nome@hotmail.com')
+assert not validate('teste nome@hotmail.com')
+assert not validate('@hot.mail.com')
+assert not validate('foo@hot mail.com')

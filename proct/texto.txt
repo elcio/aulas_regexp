@@ -1,0 +1,25 @@
+Texto de teste.
+
+O rio Doce (https://pt.wikipedia.org/wiki/Rio_Doce) é um curso de água da Região Sudeste do Brasil, que banha os estados de Minas Gerais e Espírito Santo. Origina-se na confluência dos rios Piranga e do Carmo entre os municípios de Ponte Nova, Rio Doce e Santa Cruz do Escalvado, em Minas Gerais. Contudo, seu curso principal se inicia com a nascente do rio Xopotó, afluente do rio Piranga, em Desterro do Melo.
+
+Para entrar em contato, use o e-mail contato@teste.com.br ou o telefone 11 99999-6571, ou através do nosso website: http://nossosite.com.br/.
+
+Veja nosso vídeo especial:
+
+https://www.youtube.com/watch?v=zWXloY0sslE
+
+-------------------
+
+Mais um pouco de texto...
+
+  E texto indentado. Para testar... Com um telefone: 11 98765.4321. E um telefone escrito de outro jeito: +55 (11) 9.9887.7665
+
+O evento ocorreu em 25/12/2000, em Cascavel - PR. Mas foi em São Paulo - SP que as coisas ficaram piores. Já em Santa Bárbara d'Oeste - SP, nada aconteceu.
+
+Mas você precisa conhecer São José dos Campos - SP.
+
+Gosto do pessoal do Rio de Janeiro - RJ.
+
+Isso não é uma data: 44/27/2000.
+
+Você pode encontrar uma foto interessante aqui: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/14_06_2019_Foto_do_dia_%2848063388692%29.jpg/1024px-14_06_2019_Foto_do_dia_%2848063388692%29.jpg.
